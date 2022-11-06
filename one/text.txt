@@ -1,0 +1,40 @@
+Готовий макет
+
+
+wrapper{
+wight: 1600px
+height: 5213px}
+container{
+wight: 1200px}
+
+header{
+w:1600
+h:900}
+	header_header{}
+	header_plus{}
+	header_center{}
+	header_footer{}
+
+main{
+w:1600
+h:3360}
+	main_one
+	main_two
+	main_three
+	main_four
+
+footer{
+w:1600
+h:960}
+	footer_header
+	footer_center
+	footer_footer
+
+font{
+Muli Black
+Muli SemiBold
+Muli ExtraLight
+Muli Light
+Muli Regular
+Trirong Light
+Trirong Regular}
