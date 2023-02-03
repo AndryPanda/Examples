@@ -1,0 +1,2 @@
+tahu! regular
+poppins light,medium,bold,semibold
